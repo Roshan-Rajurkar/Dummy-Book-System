@@ -1,0 +1,5 @@
+Steps to initialize node project
+
+1. Open terminal(NOT vscode terminal) and type "cd path-of-project" this will take some data
+2. then if we are using express install express in it by command "npm i express"
+3. above command will bring package-lock.json and node Modules which is called express

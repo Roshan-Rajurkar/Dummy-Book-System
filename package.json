@@ -1,0 +1,24 @@
+{
+  "name": "api1",
+  "version": "1.0.0",
+  "description": "api project 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "apiproject1"
+  },
+  "keywords": [
+    "#newProject"
+  ],
+  "author": "Roshan Rajurkar",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1",
+    "nodemon": "^2.0.20"
+  }
+}
